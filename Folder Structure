@@ -1,0 +1,5 @@
+voice-password-locker/
+├── main.py
+├── passwords.json
+├── requirements.txt
+└── README.md
